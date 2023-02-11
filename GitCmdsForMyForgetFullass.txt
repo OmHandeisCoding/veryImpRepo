@@ -14,3 +14,6 @@ go to folder and do this
 # do this to remove files from staging area : 
 - git restore --staged filename.txt
 
+# to get history for all comits do :
+ - git status
+
