@@ -1,1 +1,4 @@
 git branch branch1name
+git checkout branch1name
+
+git merge branch1name
