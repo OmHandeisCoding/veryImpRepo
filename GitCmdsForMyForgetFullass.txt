@@ -1,0 +1,12 @@
+hello click , "i" to write using vi editor.
+:press esc then, ':x' to save quit
+
+
+go to folder and do this 
+-right click and open git bash here.
+-type git.init
+-git add . (add all untracked files )
+- git commit -m "some message which no one cares about"
+
+- git status run {'git status'} to check untracked files.
+

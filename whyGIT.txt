@@ -1,0 +1,10 @@
+- CONSIDER u copied a project from some good coder , but whenever u edit it it keps breaking , and u wnat to keep going back to earlier stages whaen it worked . . . more of like going in past just without time machine 
+
+### reason 2 - layoff r happening , u heard opensource gives job so u learn git . ( smart choice ) 
+
+#######reason 2.5 - like many people can work togeather and stuff easily and efficiendly 
+
+
+% diff in git and github 
+- git is the time machine (the technology)
+- git hub is a movie where u see the movement of time machine and who uses it .
