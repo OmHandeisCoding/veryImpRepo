@@ -17,3 +17,16 @@ go to folder and do this
 # to get history for all comits do :
  - git status
 
+
+
+# to go to prev stage . 
+-  copy the hash . type - git resert #hashvalue#
+- git add. -> git stash
+
+
+
+# bring back from stash 
+ git stash pop
+
+# clear stash 
+git stash clear

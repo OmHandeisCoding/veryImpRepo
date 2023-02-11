@@ -1,0 +1,14 @@
+#add account to push stuff
+git remote add origin https://github.com/OmHandeisCoding/veryImpRepo.git
+
+
+# see urls connected to the folder 
+git remote -v
+
+
+# still cant see the changes and files on hub 
+_ ya ofcourse u didnt pust them , u just linked the acc with working folder u sucker
+
+
+# finally pushing 
+-git push origin master
