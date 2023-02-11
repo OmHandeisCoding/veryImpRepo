@@ -10,3 +10,7 @@ go to folder and do this
 
 - git status run {'git status'} to check untracked files.
 
+
+# do this to remove files from staging area : 
+- git restore --staged filename.txt
+
